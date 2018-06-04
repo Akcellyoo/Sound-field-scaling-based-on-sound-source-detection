@@ -26,7 +26,7 @@ Install Matlab R2015b directly
 Download the code and sample audio and run it
 
 # To-do list
--[ ] 优化定位算法
+- [ ] 优化定位算法
 
 # LICENSE
 

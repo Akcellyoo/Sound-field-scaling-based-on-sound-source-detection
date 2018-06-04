@@ -14,6 +14,7 @@ This project can obtain lens zoom information in the video's XML file, and can a
 
 # Requirements
 software:Matlab R2015b,Daw reaper,VST Panorama
+
 OS:Windows 10 Professional 1803
 
 # Install
